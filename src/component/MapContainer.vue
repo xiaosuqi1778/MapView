@@ -6,7 +6,7 @@ let map = null;
 
 onMounted(() => {
     window._AMapSecurityConfig = {
-    securityJsCode:"0159cea799e75333853ad41b431413e5",
+    securityJsCode:"【安全密钥】",
   }
     AMapLoader.load({
         key: "638964ba011ff16f788694feb76aaa9f", // 申请好的Web端开发者Key，首次调用 load 时必填
